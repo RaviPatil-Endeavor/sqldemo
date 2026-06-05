@@ -1,3 +1,10 @@
---Testing 123
-create table `prod`.S1.test1(id int, firstname string);
-create table `prod`.S1.test2(id int, firstname string;
+--Test123
+CREATE TABLE employee (
+    id INT64,
+    firstname STRING
+);
+
+CREATE TABLE dept (
+    id INT64,
+    deptname STRING
+);
